@@ -4,6 +4,6 @@ version=1
 versionCode=100
 author=hereBoss | Telegram @hereBoss
 description=Play Integrity Fix: Spoofs fingerprints to pass MEETS_BASIC_INTEGRITY.
-updateJson=https://raw.githubusercontent.com/here-boss/Integrity-Box/main/release.json
+updateJson=https://raw.githubusercontent.com/here-boss/Integrity-Basic/main/release.json
 support=https://t.me/IntegrityBasic
 banner=/data/adb/modules/Integrity-Basic/webroot/banner.png
