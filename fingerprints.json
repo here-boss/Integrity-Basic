@@ -1,0 +1,28 @@
+{
+  "fingerprints": [
+    {
+      "FINGERPRINT": "google/oriole_beta/oriole:16/BP22.250325.012/13467521:user/release-keys",
+      "MANUFACTURER": "Google",
+      "MODEL": "Pixel 6",
+      "SECURITY_PATCH": "2025-04-05",
+      "DEVICE_INITIAL_SDK_INT": "31",
+      "BUILD_ID": "BP22.250325.012"
+    },
+    {
+      "FINGERPRINT": "google/raven_beta/raven:16/BP22.250325.013/13467522:user/release-keys",
+      "MANUFACTURER": "Google",
+      "MODEL": "Pixel 6 Pro",
+      "SECURITY_PATCH": "2025-04-05",
+      "DEVICE_INITIAL_SDK_INT": "31",
+      "BUILD_ID": "BP22.250325.013"
+    },
+    {
+      "FINGERPRINT": "samsung/dm3qxx/dm3q:14/UP1A.231005.007/12345678:user/release-keys",
+      "MANUFACTURER": "Samsung",
+      "MODEL": "Galaxy S23",
+      "SECURITY_PATCH": "2025-03-01",
+      "DEVICE_INITIAL_SDK_INT": "33",
+      "BUILD_ID": "UP1A.231005.007"
+    }
+  ]
+}
