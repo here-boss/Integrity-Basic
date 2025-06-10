@@ -23,6 +23,14 @@
       "SECURITY_PATCH": "2025-03-01",
       "DEVICE_INITIAL_SDK_INT": "33",
       "BUILD_ID": "UP1A.231005.007"
+    },
+    {
+      "FINGERPRINT": "xiaomi/pissarro/pissarro:14/UP1A.231005.007/98765432:user/release-keys",
+      "MANUFACTURER": "Xiaomi",
+      "MODEL": "Redmi Note 11",
+      "SECURITY_PATCH": "2025-02-01",
+      "DEVICE_INITIAL_SDK_INT": "33",
+      "BUILD_ID": "UP1A.231005.007"
     }
   ]
 }
